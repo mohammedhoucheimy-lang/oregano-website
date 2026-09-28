@@ -1,0 +1,6 @@
+{
+  "name": "Oregano Resto-Café | Tyre, Lebanon",
+  "description": "The official website of Oregano Resto-Café in Tyre (Sour), Lebanon. Located at Palazzo Hotel on the Corniche, offering Mediterranean cuisine, sea views, breakfast, burgers, and shisha lounge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
